@@ -1,0 +1,21 @@
+.board {
+	display: inline;
+	float: left;
+	clear: left;
+}
+
+#color {
+	display: inline;
+	position: relative;
+	float: right;
+	margin-top: 3%;
+	margin-right: 10%;
+}
+
+button {
+	display: inline;
+	margin-top: 10px;
+	width: 200px;
+	height: 25px;
+	font-size: 14px;
+}
